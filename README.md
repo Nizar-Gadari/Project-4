@@ -1,6 +1,6 @@
 # Project-4
 
-# Business Analytics Project with Excel – Sales Optimization and Product Profitability
+# Business Analytics Project with Excel – analyzing superstore profit & sales
 
 The goal of this project is to analyze the superstore's profit, uncover its trends and seasonality as well as determine which states are the most profitable. It is also to figure out how sales vary depending on time factors, the category of product that is being sold and the segment that purchases it. These insights translate into actions that improve overall profitability.
 
