@@ -1,6 +1,6 @@
 # Project-4
 
-# Business Analytics Project with Excel – analyzing superstore profit & sales
+# Business Analytics Project with Excel – Analyzing superstore profit & sales
 
 The goal of this project is to analyze the superstore's profit, uncover its trends and seasonality as well as determine which states are the most profitable. It is also to figure out how sales vary depending on time factors, the category of product that is being sold and the segment that purchases it. These insights translate into actions that improve overall profitability.
 
@@ -20,12 +20,11 @@ This project focuses on understanding and improving the profitability of a large
 
 Key questions addressed:
 
-How have sales and profits evolved over the past four years?
-Which product categories — Supplies, Technology, Office Equipment — drive the most revenue?
-Which customer segments — Consumer, Corporate, Home Office — contribute most to sales?
-Are there seasonal or time-based trends affecting performance?
-Which states or regions are the most profitable?
-What can be forecasted for 2023 using analytical and predictive methods?
+* How have sales and profits evolved over the past four years?
+* Which customer segments — Consumer, Corporate, Home Office — contribute most to sales?
+* Are there seasonal or time-based trends affecting performance?
+* Which states or regions are the most profitable?
+* What can be forecasted for 2023 using analytical and predictive methods?
 
 ## 📑 Dataset
 
